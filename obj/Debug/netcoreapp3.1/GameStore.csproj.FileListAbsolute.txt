@@ -1,0 +1,13 @@
+C:\Users\emine-pc\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.exe
+C:\Users\emine-pc\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.deps.json
+C:\Users\emine-pc\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.runtimeconfig.json
+C:\Users\emine-pc\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.runtimeconfig.dev.json
+C:\Users\emine-pc\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.dll
+C:\Users\emine-pc\source\repos\GameStore\GameStore\bin\Debug\netcoreapp3.1\GameStore.pdb
+C:\Users\emine-pc\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.csprojAssemblyReference.cache
+C:\Users\emine-pc\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.AssemblyInfoInputs.cache
+C:\Users\emine-pc\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.AssemblyInfo.cs
+C:\Users\emine-pc\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.csproj.CoreCompileInputs.cache
+C:\Users\emine-pc\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.dll
+C:\Users\emine-pc\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.pdb
+C:\Users\emine-pc\source\repos\GameStore\GameStore\obj\Debug\netcoreapp3.1\GameStore.genruntimeconfig.cache
